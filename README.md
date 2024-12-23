@@ -34,7 +34,7 @@ List key features and functionalities of your project.
 
 ## Contributing
 
-If you would like to contribute to this project or have any suggestions please reach me out at kilango5@outlook.com. Hope to talk to you soon. :)
+If you would like to contribute to this project or have any suggestions please reach me out at sahadathossensajib@gmail.com. Hope to talk to you soon. :)
 
 ## License
 
